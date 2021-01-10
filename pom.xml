@@ -20,6 +20,7 @@
         <module>tianhe-netty</module>
         <module>tianhe-zookeeper</module>
         <module>tianhe-spring</module>
+        <module>tianhe-writtentest</module>
     </modules>
 
     <name>tianhe-framework</name>
