@@ -1,4 +1,4 @@
-package com.tianhe.writtentest.algorithm;
+package com.tianhe.writtentest;
 
 /**
  * 泰波那契序列 Tn 定义如下： 
