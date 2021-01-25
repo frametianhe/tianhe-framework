@@ -1,4 +1,4 @@
-package com.tianhe.writtentest.sort;
+package com.tianhe.writtentest.find;
 
 /**
  * 二分查找
